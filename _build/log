@@ -1,0 +1,6 @@
+# dune init proj advent_2024_ocaml
+# OCAMLPARAM: unset
+# Shared cache: enabled-except-user-rules
+# Shared cache location: /Users/elzasmirnova/.cache/dune/db
+# Workspace root: /Users/elzasmirnova/advent_2024_ocaml
+# Auto-detected concurrency: 4
